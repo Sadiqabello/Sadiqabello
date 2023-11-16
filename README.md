@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced .NET Software Eng
 - Azure DevOps
 - SQL Server Management Studio
 
+<!--
 ### 🏆 Experience
 
 #### Software Engineer, [Company Name]
@@ -33,6 +34,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced .NET Software Eng
 
 - Assisted in the development and testing phases of [specific projects or tasks].
 - Gained hands-on experience with [mention any technologies or tools used during your internship].
+-->
 
 ### 📚 Education
 
