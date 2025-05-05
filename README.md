@@ -6,12 +6,12 @@ Welcome to my GitHub profile! I'm a passionate and experienced .NET Software Eng
 
 ### 🔧 Skills
 
-- **Languages:** C#, VB.NET, Python, C
+- **Languages:** C#, VB.NET, Python, C, Java, C++, 
 - **Web Technologies:** ASP.NET MVC, ASP.NET Core, ASP.NET API, REACT.JS, DJANGO MVT, DJANGO REST FRAMEWORK, HTML, CSS, JavaScript
-- **Database:** SQL Server, Entity Framework, PostgreSQL
+- **Database:** SQL Server, Entity Framework, PostgreSQL, MySQL, SQLite, MongoDB
 - **Version Control:** Git
 - **Testing:** NUnit, xUnit
-- **Other:** RESTful APIs, Docker, Vagrant
+- **Other:** RESTful APIs, Docker, Vagrant, Postman, Shell, RPC
 
 ### 🛠️ Tools and Technologies
 
@@ -20,17 +20,21 @@ Welcome to my GitHub profile! I'm a passionate and experienced .NET Software Eng
 - Git/GitHub
 - Azure DevOps
 - SQL Server Management Studio
+- Rider
+- Pycharm
+- Webstorm
+- intelliJ IDEA
+- DataGrip
+- Slack
 
 <!--
 ### 🏆 Experience
 
-#### Software Engineer, [Company Name]
+#### Software Engineer, [Hubuk Technology]
 
-- Developed and maintained [mention specific projects or systems].
-- Collaborated with cross-functional teams to deliver high-quality software solutions.
-- Implemented [mention any specific technologies, patterns, or methodologies you used].
+#### Web Developer, [Gems Global, Ltd.]
 
-#### Intern, [Another Company]
+#### Intern, [StartUp Kano]
 
 - Assisted in the development and testing phases of [specific projects or tasks].
 - Gained hands-on experience with [mention any technologies or tools used during your internship].
