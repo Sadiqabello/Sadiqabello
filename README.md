@@ -43,6 +43,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced .NET Software Eng
 ### 📚 Education
 
 - Bachelor of Science in Software Engineering, [Bayero University, Kano.], 2023
+- Diploma in Programming and Software Development, [Kano State Institute of Information Technology, Kura.], 2023
 
 ### 📫 Let's Connect
 
