@@ -128,16 +128,15 @@ Collaborated on building responsive web interfaces using HTML, CSS, Bootstrap, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadiqabello&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sadiqabello&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sadiqabello&theme=github_dark&utcOffset=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiqabello&layout=compact&theme=github_dark&hide_border=false&langs_count=10)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadiqabello&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadiqabello&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sadiqabello&theme=github-dark-blue&hide_border=false)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadiqabello&theme=github-dark&hide_border=false&area=true)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadiqabello&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadiqabello&theme=github_dark)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadiqabello&theme=github_dark)
 
