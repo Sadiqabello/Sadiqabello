@@ -128,46 +128,18 @@ Collaborated on building responsive web interfaces using HTML, CSS, Bootstrap, a
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sadiqabello&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sadiqabello&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabello&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabello&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=10" alt="Top Languages" />
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadiqabello&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiqabello&layout=compact&theme=github_dark&hide_border=false&langs_count=10)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sadiqabello&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d&border=21262d" />
-  <img src="https://streak-stats.demolab.com?user=sadiqabello&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d&border=21262d" alt="GitHub Streak" />
-</picture>
+![GitHub Streak](https://streak-stats.demolab.com?user=Sadiqabello&theme=github-dark-blue&hide_border=false)
 
-<br/><br/>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadiqabello&theme=github-dark&hide_border=false&area=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqabello&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sadiqabello&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sadiqabello&theme=github_dark)
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadiqabello&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadiqabello&theme=github_dark" alt="Repos per Language" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiqabello&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiqabello&theme=github_dark" alt="Most Commit Language" />
-</picture>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiqabello&theme=github_dark" alt="Profile Details" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sadiqabello&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" alt="Detailed Stats" width="55%"/>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sadiqabello&theme=github_dark)
 
 </div>
 
