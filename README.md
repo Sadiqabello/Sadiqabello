@@ -34,6 +34,8 @@ Software Engineer with hands-on experience building secure, scalable application
 ![C#](https://img.shields.io/badge/C%23-1a1a2e?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1a1a2e?style=flat-square&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=white)
@@ -42,8 +44,11 @@ Software Engineer with hands-on experience building secure, scalable application
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a1a2e?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-1a1a2e?style=flat-square&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-1a1a2e?style=flat-square&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-1a1a2e?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-1a1a2e?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-1a1a2e?style=flat-square&logo=django&logoColor=white)
 
@@ -123,13 +128,46 @@ Collaborated on building responsive web interfaces using HTML, CSS, Bootstrap, a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sadiqabello&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_border=false" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sadiqabello&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sadiqabello&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</picture>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabello&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=21262d&hide_border=false" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabello&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=10" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabello&layout=compact&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&border_color=21262d&hide_border=false&langs_count=10" alt="Top Languages" />
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sadiqabello&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d&border=21262d" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sadiqabello&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d&border=21262d" />
+  <img src="https://streak-stats.demolab.com?user=sadiqabello&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=21262d&border=21262d" alt="GitHub Streak" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqabello&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=false&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadiqabello&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadiqabello&theme=github_dark" alt="Repos per Language" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiqabello&theme=github_dark" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadiqabello&theme=github_dark" alt="Most Commit Language" />
+</picture>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiqabello&theme=github_dark" alt="Profile Details" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sadiqabello&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
 
 </div>
 
