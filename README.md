@@ -167,9 +167,7 @@ Collaborated on building responsive web interfaces using HTML, CSS, Bootstrap, a
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadiqabello&theme=onestar&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=sadiqabello&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&border_color=21262d&hide_border=false&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" alt="Detailed Stats" width="55%"/>
 
 </div>
 
